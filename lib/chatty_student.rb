@@ -10,5 +10,4 @@ class Chatty_Student < Student
       super
     end
     end
-    end
 end
